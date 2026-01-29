@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hassan-developer2
-- www.jhammat.com
+- certified developer
 - 👀 I’m interested in Python web and desktop apps
 
 
